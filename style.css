@@ -1,14 +1,14 @@
  
-#top{width: 100%;
-    height: 10%;
+#top{width: 100vw;
+    height: 10vh;
     background-color: #36364f;
     position: absolute;
     top: 0%;
     right: 0%;
    }
 
-.logo{width: 8%;
-     height: 8%;
+.logo{width: 8vw;
+     height: 8vh;
      position: absolute;
      background-image: url("logo.png");
      display: block;
@@ -17,8 +17,8 @@
      top: 0%;
      right: 90%;
     }
-.week1{width: 10%;
-     height: 60%;
+.week1{width: 10vw;
+     height: 60vh;
      position: absolute;
      top: 30%;
      right: 75%;
@@ -111,8 +111,8 @@
          background-image: url("mpabout.png");
          background-repeat: no-repeat;
         }
-.babout {width: 10%;
-        height: 10%;
+.babout {width: 10vw;
+        height: 10vh;
         font-size: 30px;
         color: white;
         border-color: white;
@@ -122,19 +122,19 @@
         border-style: solid;
         border-width: 1px;
         text-align: center;
-        padding: 1% 0;
+        padding: 1%;
        }
 
-#pggame {width: 100%;
-    height: 90%;
+#pggame {width: 100vw;
+    height: 90vh;
     background-color: #8181a2;
     position: absolute;
     top: 10%;
     right: 0%;
        }
 
-.popg {width: 50%;
-      height: 20%;
+.popg {width: 50vw;
+      height: 20vh;
       font-size: 50px;
       color: white;
       position: absolute;
@@ -143,8 +143,8 @@
       text-align: center;
       padding: 1% 0;}
 
-.act2 {width: 20%;
-     height: 70%;
+.act2 {width: 20vw;
+     height: 70vh;
      background-image: url("act2.jpg");
      display: block;
      background-size: 100%;
@@ -159,16 +159,14 @@
     color: white;
     border-color: white;
     position: absolute;
-    top: 95%;
+    top: 85%;
     right: 0%;
-    border-style: solid;
-    border-width: 1px;
     text-align: center;
     text-shadow: 1px 1px 1px black;
    }
 
-.act1 {width: 20%;
-     height: 70%;
+.act1 {width: 20vw;
+     height: 70vh;
      background-image: url("act1.jpg");
      background-size: 100%;
      background-repeat: no-repeat;
@@ -182,16 +180,14 @@
         color: white;
         border-color: white;
         position: absolute;
-        top: 85%;
+        top: 75%;
         right: 0%;
-        border-style: solid;
-        border-width: 1px;
         text-align: center;
         text-shadow: 1px 1px 1px black;
        }
 
-.act3 {width: 20%;
-    height: 70%;
+.act3 {width: 20vw;
+    height: 70vh;
     background-image: url("act5.jpg");
      display: block;
      background-size: 100%;
@@ -206,16 +202,14 @@
     color: white;
     border-color: white;
     position: absolute;
-    top: 85%;
+    top: 75%;
     right: 0%;
-    border-style: solid;
-    border-width: 1px;
     text-align: center;
      }
 
 
-.act4 {width: 20%;
-        height: 70%;
+.act4 {width: 20vw;
+        height: 70vh;
         background-image: url("act4.jpg");
          display: block;
          background-size: 100%;
@@ -230,14 +224,12 @@
         color: white;
         border-color: white;
         position: absolute;
-        top: 85%;
+        top: 75%;
         right: 0%;
-        border-style: solid;
-        border-width: 1px;
         text-align: center;
          }
-.o5  {width: 15%;
-        height: 25%;
+.o5  {width: 15vw;
+        height: 25vh;
         font-size: 20px;
         color: white;
         border-color: white;
