@@ -184,23 +184,85 @@ body{
         top: 110vh;
         left: 37vw;
            }
-    .o4  {width: 20vw;
-            height: 25vh;
-            font-size: 20px;
-            color: white;
-            border-color: white;
-            position: absolute;
-            top: 55vh;
-            left: 0vw;
-            text-align: center;
-             }
-    .o5  {width: 20vw;
-            height: 25vh;
-            font-size: 20px;
-            color: white;
-            border-color: white;
-            position: absolute;
-            top: 22vh;
-            left: 65vw;
-            text-align: center;
-             }
+.o4  {width: 20vw;
+        height: 25vh;
+        font-size: 20px;
+        color: white;
+        border-color: white;
+        position: absolute;
+        top: 55vh;
+        left: 0vw;
+        text-align: center;
+         }
+.o5  {width: 20vw;
+        height: 25vh;
+        font-size: 20px;
+        color: white;
+        border-color: white;
+        position: absolute;
+        top: 22vh;
+        left: 65vw;
+        text-align: center;
+         }
+
+.danheng {width: 20vw;
+    height: 70vh;
+    background-image: url("danheng.png");
+    display: block;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    position: absolute;
+    top: 25vh;
+    left: 37vw;
+    }
+.d1  {width: 20vw;
+    height: 25vh;
+    font-size: 20px;
+    color: white;
+    border-color: white;
+    position: absolute;
+    top: 30vh;
+    left: 0vw;
+    text-align: center;
+    text-shadow: 1px 1px 1px black;
+    }
+.lunae {width: 20vw;
+        height: 70vh;
+        background-image: url("Lunae.png");
+         display: block;
+         background-size: 100%;
+         background-repeat: no-repeat;
+        position: absolute;
+        top: 25vh;
+        left: 10vw;
+       }
+.d3  {width: 20vw;
+        height: 25vh;
+        font-size: 20px;
+        color: white;
+        border-color: white;
+        position: absolute;
+        top: 30vh;
+        left: 0vw;
+        text-align: center;
+         }
+.terrae {width: 20vw;
+         height: 70vh;
+         background-image: url("Terrae.png");
+         background-size: 100%;
+         background-repeat: no-repeat;
+         position: absolute;
+         top: 80vh;
+         left: 10vw;
+        }
+.d2   {width: 20vw;
+        height: 25vh;
+        font-size: 20px;
+        color: white;
+        border-color: white;
+        position: absolute;
+        top: 30vh;
+        left: 0vw;
+        text-align: center;
+        text-shadow: 1px 1px 1px black;
+           }
