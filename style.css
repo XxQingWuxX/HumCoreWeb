@@ -205,7 +205,7 @@ body{
         text-align: center;
          }
 
-.danheng {width: 20vw;
+.danheng {width: 30vw;
     height: 70vh;
     background-image: url("Danheng.png");
     display: block;
@@ -213,20 +213,20 @@ body{
     background-repeat: no-repeat;
     position: absolute;
     top: 25vh;
-    left: 37vw;
+    left: 5vw;
     }
-.d1  {width: 20vw;
+.d1  {width: 30vw;
     height: 25vh;
     font-size: 20px;
     color: white;
     border-color: white;
     position: absolute;
-    top: 30vh;
+    top: 43vh;
     left: 0vw;
     text-align: center;
     text-shadow: 1px 1px 1px black;
     }
-.lunae {width: 20vw;
+.lunae {width: 30vw;
         height: 70vh;
         background-image: url("Lunae.png");
          display: block;
@@ -234,35 +234,45 @@ body{
          background-repeat: no-repeat;
         position: absolute;
         top: 25vh;
-        left: 10vw;
+        left: 40vw;
        }
-.d3  {width: 20vw;
+.d3  {width: 30vw;
         height: 25vh;
         font-size: 20px;
         color: white;
         border-color: white;
         position: absolute;
-        top: 30vh;
+        top: 43vh;
         left: 0vw;
         text-align: center;
          }
-.terrae {width: 20vw;
+.terrae {width: 30vw;
          height: 70vh;
          background-image: url("Terrae.png");
          background-size: 100%;
          background-repeat: no-repeat;
          position: absolute;
-         top: 80vh;
-         left: 10vw;
+         top: 115vh;
+         left: 20vw;
         }
-.d2   {width: 20vw;
+.d2   {width: 30vw;
         height: 25vh;
         font-size: 20px;
         color: white;
         border-color: white;
         position: absolute;
-        top: 30vh;
+        top: 43vh;
         left: 0vw;
         text-align: center;
         text-shadow: 1px 1px 1px black;
            }
+.acti2  {width: 20vw;
+        height: 25vh;
+        font-size: 20px;
+        color: white;
+        border-color: white;
+        position: absolute;
+        top: 25vh;
+        left: 75vw;
+        text-align: center;
+        }
