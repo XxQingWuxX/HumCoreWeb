@@ -205,7 +205,7 @@ body{
         text-align: center;
          }
 
-.danheng {width: 30vw;
+.danheng {width: 40vw;
     height: 70vh;
     background-image: url("Danheng.png");
     display: block;
@@ -213,66 +213,107 @@ body{
     background-repeat: no-repeat;
     position: absolute;
     top: 25vh;
-    left: 5vw;
+    left: 50vw;
     }
-.d1  {width: 30vw;
+.d1  {width: 40vw;
     height: 25vh;
     font-size: 20px;
     color: white;
     border-color: white;
     position: absolute;
-    top: 43vh;
+    top: 55vh;
     left: 0vw;
     text-align: center;
     text-shadow: 1px 1px 1px black;
     }
-.lunae {width: 30vw;
+.lunae {width: 40vw;
         height: 70vh;
         background-image: url("Lunae.png");
          display: block;
          background-size: 100%;
          background-repeat: no-repeat;
         position: absolute;
-        top: 25vh;
-        left: 40vw;
+        top: 125vh;
+        left: 5vw;
        }
-.d3  {width: 30vw;
+.d3  {width: 40vw;
         height: 25vh;
         font-size: 20px;
         color: white;
         border-color: white;
         position: absolute;
-        top: 43vh;
+        top: 55vh;
         left: 0vw;
         text-align: center;
          }
-.terrae {width: 30vw;
+.terrae {width: 40vw;
          height: 70vh;
          background-image: url("Terrae.png");
          background-size: 100%;
          background-repeat: no-repeat;
          position: absolute;
-         top: 115vh;
-         left: 20vw;
+         top: 230vh;
+         left: 50vw;
         }
-.d2   {width: 30vw;
+.d2   {width: 40vw;
         height: 25vh;
         font-size: 20px;
         color: white;
         border-color: white;
         position: absolute;
-        top: 43vh;
+        top: 55vh;
         left: 0vw;
         text-align: center;
         text-shadow: 1px 1px 1px black;
            }
-.acti2  {width: 20vw;
+.acti2  {width: 30vw;
         height: 25vh;
         font-size: 20px;
         color: white;
         border-color: white;
         position: absolute;
-        top: 25vh;
-        left: 75vw;
+        top: 40vh;
+        left: 8vw;
         text-align: center;
         }
+
+.two  {width: 30vw;
+        height: 25vh;
+        font-size: 20px;
+        color: white;
+        border-color: white;
+        position: absolute;
+        top: 130vh;
+        left: 55vw;
+        text-align: center;
+        }
+.three  {width: 30vw;
+        height: 25vh;
+        font-size: 20px;
+        color: white;
+        border-color: white;
+        position: absolute;
+        top: 240vh;
+        left: 8vw;
+        text-align: center;
+        }
+.dan3 {width: 40vw;
+    height: 70vh;
+    background-image: url("Dan3.png");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    position: absolute;
+    top: 340vh;
+    left: 50vw;
+    }
+.d31   {width: 40vw;
+           height: 25vh;
+           font-size: 20px;
+           color: white;
+           border-color: white;
+           position: absolute;
+           top: 55vh;
+           left: 0vw;
+           text-align: center;
+           text-shadow: 1px 1px 1px black;
+              }
