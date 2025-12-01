@@ -307,13 +307,35 @@ body{
     left: 50vw;
     }
 .d31   {width: 40vw;
-           height: 25vh;
-           font-size: 20px;
-           color: white;
-           border-color: white;
-           position: absolute;
-           top: 55vh;
-           left: 0vw;
-           text-align: center;
-           text-shadow: 1px 1px 1px black;
-              }
+        height: 25vh;
+        font-size: 20px;
+        color: white;
+        border-color: white;
+        position: absolute;
+       top: 55vh;
+       left: 0vw;
+        text-align: center;
+       text-shadow: 1px 1px 1px black;
+          }
+
+.tree {width: 40vw;
+        height: 70vh;
+        background-image: url("tree.png");
+        display: block;
+        background-size: 100%;
+        background-repeat: no-repeat;
+        position: absolute;
+        top: 25vh;
+        left: 50vw;
+        }
+.d1t  {width: 40vw;
+            height: 25vh;
+            font-size: 20px;
+            color: white;
+            border-color: white;
+            position: absolute;
+            top: 45vh;
+            left: 0vw;
+            text-align: center;
+            text-shadow: 1px 1px 1px black;
+            }
