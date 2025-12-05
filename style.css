@@ -339,3 +339,75 @@ body{
             text-align: center;
             text-shadow: 1px 1px 1px black;
             }
+.sacred {width: 40vw;
+                height: 70vh;
+                background-image: url("sacred.png");
+                 display: block;
+                 background-size: 100%;
+                 background-repeat: no-repeat;
+                position: absolute;
+                top: 90vh;
+                left: 5vw;
+               }
+.d3t  {width: 40vw;
+                height: 25vh;
+                font-size: 20px;
+                color: white;
+                border-color: white;
+                position: absolute;
+                top: 45vh;
+                left: 0vw;
+                text-align: center;
+                 }
+.acti3two  {width: 30vw;
+        height: 25vh;
+        font-size: 20px;
+        color: white;
+        border-color: white;
+        position: absolute;
+        top: 95vh;
+        left: 55vw;
+        text-align: center;
+        }
+.life {width: 40vw;
+                height: 70vh;
+                background-image: url("life.png");
+                background-size: 100%;
+                background-repeat: no-repeat;
+                position: absolute;
+                top: 150vh;
+                left: 50vw;
+               }
+.d2t   {width: 40vw;
+               height: 25vh;
+               font-size: 20px;
+               color: white;
+               border-color: white;
+               position: absolute;
+               top: 45vh;
+               left: 0vw;
+               text-align: center;
+               text-shadow: 1px 1px 1px black;
+        }
+
+.acti3three  {width: 30vw;
+                height: 25vh;
+                font-size: 20px;
+                color: white;
+                border-color: white;
+                position: absolute;
+                top: 160vh;
+                left: 8vw;
+                text-align: center;
+                }
+
+.reflection  {width: 50vw;
+        height: 25vh;
+        font-size: 20px;
+        color: white;
+        border-color: white;
+        position: absolute;
+        top: 220vh;
+        left: 25vw;
+        text-align: center;
+        }
