@@ -6,7 +6,7 @@ body{
     background-color: #26263f;
 }
 
-#top{width: 100vw;
+#top{width: 98.7vw;
     height: 10vh;
     background-color: #36364f;
     position: absolute;
@@ -47,7 +47,7 @@ body{
         }
 .dropdownmenu .one ul {
         display: none;
-        width: 40vw;
+        width: 20vw;
         height: 23vh;
         position: absolute;
         top: 100%;
@@ -69,6 +69,53 @@ body{
 .dropdownmenu .one ul li:hover {
         background-color:  #2a2a40;
     }
+
+
+.dropdownmenu .two {
+        height: 6vh;
+        width: 20vw;
+        font-size: 30px;
+        position:absolute ;
+        top: 2vh;
+        left: 40vw;
+        background-color: #36364f;
+        z-index: 1000;
+        }
+.dropdownmenu .two ul {
+        display: none;
+        width: 20vw;
+        height: 23vh;
+        position: absolute;
+        top: 100%;
+        left: 0;
+        background-color:#36364f;
+        min-width: 160px;
+        font-size: 20px;
+        z-index: 1000;
+    }
+.dropdownmenu .two:hover ul {
+        display: block;
+    }
+.dropdownmenu .two a {
+        display: block;
+    }
+.dropdownmenu .two ul li {
+        padding: 8px 12px;
+    }
+.dropdownmenu .two ul li:hover {
+        background-color:  #2a2a40;
+    }
+
+
+
+
+
+
+
+
+
+
+
 .pgde {width: 60vw;
         height: 10vh;
         border-color: white;
@@ -277,7 +324,7 @@ body{
         text-align: center;
         }
 
-.two  {width: 30vw;
+.two2  {width: 30vw;
         height: 25vh;
         font-size: 20px;
         color: white;
@@ -409,5 +456,80 @@ body{
         position: absolute;
         top: 220vh;
         left: 25vw;
+        text-align: center;
+        }
+
+
+.full {width: 40vw;
+    height: 70vh;
+    background-image: url("boat.png");
+    display: block;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    position: absolute;
+    top: 25vh;
+    left: 50vw;
+    }  
+
+.a41  {width: 40vw;
+    height: 10vh;
+    font-size: 20px;
+    color: white;
+    border-color: white;
+    position: absolute;
+    top: 55vh;
+    left: 0vw;
+    text-align: center;
+    text-shadow: 1px 1px 1px black;
+    }
+.a41a  {width: 30vw;
+        height: 25vh;
+        font-size: 20px;
+        color: white;
+        border-color: white;
+        position: absolute;
+        top: 90vh;
+        left: 55vw;
+        text-align: center;
+        }
+.compare {width: 40vw;
+        height:55vh;
+        background-image: url("boat.png");
+         display: block;
+         background-size: 120%;
+         background-repeat: no-repeat;
+        position: absolute;
+        top: 100vh;
+        left: 5vw;
+       }
+.d34  {width: 40vw;
+        height: 10vh;
+        font-size: 20px;
+        color: white;
+        border-color: white;
+        position: absolute;
+        top: 55vh;
+        left: 0vw;
+        text-align: center;
+         }
+
+.a41b  {width: 30vw;
+        height: 25vh;
+        font-size: 20px;
+        color: white;
+        border-color: white;
+        position: absolute;
+        top: 140vh;
+        left: 55vw;
+        text-align: center;
+        }
+.a41c  {width: 80vw;
+        height: 25vh;
+        font-size: 20px;
+        color: white;
+        border-color: white;
+        position: absolute;
+        top: 180vh;
+        left: 8vw;
         text-align: center;
         }
