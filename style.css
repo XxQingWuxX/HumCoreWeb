@@ -533,3 +533,86 @@ body{
         left: 8vw;
         text-align: center;
         }
+
+.fa {width: 50vw;
+    height: 50vh;
+    background-image: url("tools.png");
+    display: block;
+    background-size: 50%;
+    background-repeat: no-repeat;
+    position: absolute;
+    top: 35vh;
+    left: 55vw;
+    }  
+
+.f1  {width: 40vw;
+    height: 10vh;
+    font-size: 20px;
+    color: white;
+    border-color: white;
+    position: absolute;
+    top: 50vh;
+    left: -5vw;
+    text-align: center;
+    text-shadow: 1px 1px 1px black;
+    }
+.f2 {width: 30vw;
+        height: 25vh;
+        font-size: 20px;
+        color: white;
+        border-color: white;
+        position: absolute;
+        top: 100vh;
+        left: 50vw;
+        text-align: center;
+        }
+.f21 {width: 60vw;
+        height:80vh;
+        background-image: url("p1.png");
+         display: block;
+         background-size: 50%;
+         background-repeat: no-repeat;
+        position: absolute;
+        top: 100vh;
+        left: 5vw;
+       }
+.f22  {width: 40vw;
+        height: 10vh;
+        font-size: 20px;
+        color: white;
+        border-color: white;
+        position: absolute;
+        top: 80vh;
+        left: 0vw;
+        text-align: center;
+         }
+.f33  {width: 30vw;
+        height: 25vh;
+        font-size: 20px;
+        color: white;
+        border-color: white;
+        position: absolute;
+        top: 12s0vh;
+        left: 0vw;
+        text-align: center;
+        }
+.f23 {width: 60vw;
+        height:80vh;
+        background-image: url("p2.png");
+         display: block;
+         background-size: 50%;
+         background-repeat: no-repeat;
+        position: absolute;
+        top: 100vh;
+        left: -45vw;
+       }
+.f24 {width: 40vw;
+        height: 10vh;
+        font-size: 20px;
+        color: white;
+        border-color: white;
+        position: absolute;
+        top: 70vh;
+        left: 0vw;
+        text-align: center;
+         }
