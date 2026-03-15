@@ -471,17 +471,7 @@ body{
     left: 50vw;
     }  
 
-.a41  {width: 40vw;
-    height: 10vh;
-    font-size: 20px;
-    color: white;
-    border-color: white;
-    position: absolute;
-    top: 55vh;
-    left: 0vw;
-    text-align: center;
-    text-shadow: 1px 1px 1px black;
-    }
+ 
 .a41a  {width: 30vw;
         height: 25vh;
         font-size: 20px;
@@ -616,3 +606,46 @@ body{
         left: 0vw;
         text-align: center;
          }
+
+.s1 {width: 50vw;
+        height: 25vh;
+        font-size: 20px;
+        color: white;
+        border-color: white;
+        position: absolute;
+        top: 93vh;
+        left: 20vw;
+        text-align: center;
+        }
+
+.s2 {width: 30vw;
+        height: 25vh;
+        font-size: 20px;
+        color: white;
+        border-color: white;
+        position: absolute;
+        top: 25vh;
+        left: 8vw;
+        text-align: center;
+        }
+.full1 {width: 40vw;
+    height: 70vh;
+    background-image: url("w6.png");
+    display: block;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    position: absolute;
+    top: 25vh;
+    left: 50vw;
+    }  
+.a416  {width: 40vw;
+    height: 10vh;
+    font-size: 20px;
+    color: white;
+    border-color: white;
+    position: absolute;
+    top: 45vh;
+    left: 0vw;
+    text-align: center;
+    text-shadow: 1px 1px 1px black;
+    }
