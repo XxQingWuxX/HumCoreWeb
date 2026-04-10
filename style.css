@@ -108,6 +108,40 @@ body{
 
 
 
+.dropdownmenu .three1 {
+        height: 6vh;
+        width: 20vw;
+        font-size: 30px;
+        position:absolute ;
+        top: 2vh;
+        left: 65vw;
+        background-color: #36364f;
+        z-index: 1000;
+        }
+.dropdownmenu .three1 ul {
+        display: none;
+        width: 20vw;
+        height: 23vh;
+        position: absolute;
+        top: 100%;
+        left: 0;
+        background-color:#36364f;
+        min-width: 160px;
+        font-size: 20px;
+        z-index: 1000;
+    }
+.dropdownmenu .three1:hover ul {
+        display: block;
+    }
+.dropdownmenu .three1 a {
+        display: block;
+    }
+.dropdownmenu .three1 ul li {
+        padding: 8px 12px;
+    }
+.dropdownmenu .three1 ul li:hover {
+        background-color:  #2a2a40;
+    }
 
 
 
@@ -660,3 +694,24 @@ body{
     text-align: center;
     text-shadow: 1px 1px 1px black;
     }
+.a71 {width: 30vw;
+        height: 25vh;
+        font-size: 20px;
+        color: white;
+        border-color: white;
+        position: absolute;
+        top: 25vh;
+        left: 8vw;
+        text-align: center;
+        }
+
+.a72 {width: 30vw;
+        height: 25vh;
+        font-size: 20px;
+        color: white;
+        border-color: white;
+        position: absolute;
+        top: 25vh;
+        left: 60vw;
+        text-align: center;
+        }
