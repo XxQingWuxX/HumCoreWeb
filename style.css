@@ -715,3 +715,35 @@ body{
         left: 60vw;
         text-align: center;
         }
+
+.a73 {width: 30vw;
+        height: 25vh;
+        font-size: 20px;
+        color: white;
+        border-color: white;
+        position: absolute;
+        top: 50vh;
+        left: 60vw;
+        text-align: center;
+        }
+.seth {width: 40vw;
+    height: 70vh;
+    background-image: url("seth.jpg");
+    display: block;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    position: absolute;
+    top: 100vh;
+    left: 5vw;
+    }  
+.seth1  {width: 40vw;
+    height: 10vh;
+    font-size: 20px;
+    color: white;
+    border-color: white;
+    position: absolute;
+    top: 60vh;
+    left: 0vw;
+    text-align: center;
+    text-shadow: 1px 1px 1px black;
+    }
