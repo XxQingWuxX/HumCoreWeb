@@ -747,3 +747,95 @@ body{
     text-align: center;
     text-shadow: 1px 1px 1px black;
     }
+.a9t {width: 90vw;
+        height: 25vh;
+        font-size: 20px;
+        color: white;
+        border-color: white;
+        position: absolute;
+        top: 25vh;
+        left: 5vw;
+        text-align: center;
+        }
+.a91 {width: 30vw;
+        height: 25vh;
+        font-size: 20px;
+        color: white;
+        border-color: white;
+        position: absolute;
+        top: 35vh;
+        left: 8vw;
+        text-align: center;
+        }
+.a93 {width: 30vw;
+        height: 25vh;
+        font-size: 20px;
+        color: white;
+        border-color: white;
+        position: absolute;
+        top: 35vh;
+        left: 60vw;
+        text-align: center;
+        }
+.a92 {width: 30vw;
+        height: 25vh;
+        font-size: 20px;
+        color: white;
+        border-color: white;
+        position: absolute;
+        top: 110vh;
+        left: 60vw;
+        text-align: center;
+        }
+.a94 {width: 30vw;
+        height: 25vh;
+        font-size: 20px;
+        color: white;
+        border-color: white;
+        position: absolute;
+        top: 170vh;
+        left: 60vw;
+        text-align: center;
+        }
+.pt {width: 40vw;
+    height: 70vh;
+    background-image: url("pt.jpg");
+    display: block;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    position: absolute;
+    top: 100vh;
+    left: 5vw;
+    }  
+.pt1  {width: 40vw;
+    height: 10vh;
+    font-size: 20px;
+    color: white;
+    border-color: white;
+    position: absolute;
+    top: 70vh;
+    left: 0vw;
+    text-align: center;
+    text-shadow: 1px 1px 1px black;
+    }
+.nq {width: 40vw;
+    height: 70vh;
+    background-image: url("nq.jpg");
+    display: block;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    position: absolute;
+    top: 190vh;
+    left: 5vw;
+    }  
+.nq1  {width: 40vw;
+    height: 10vh;
+    font-size: 20px;
+    color: white;
+    border-color: white;
+    position: absolute;
+    top: 70vh;
+    left: 0vw;
+    text-align: center;
+    text-shadow: 1px 1px 1px black;
+    }
