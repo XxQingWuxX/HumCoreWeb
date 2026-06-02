@@ -25,6 +25,17 @@ body{
      left: 5vw;
     }
 
+.p{width: 8vw;
+     height: 8vh;
+     position: absolute;
+     font-size: 30px;
+     color: white;
+     text-align: center;
+     font-weight: bold;
+     top: 2vh;
+     left: 87vw;
+    }
+
 .dropdownmenu {
         cursor: pointer;
         list-style-type: none;
@@ -787,6 +798,16 @@ body{
         left: 60vw;
         text-align: center;
         }
+.a92p {width: 30vw;
+        height: 25vh;
+        font-size: 20px;
+        color: white;
+        border-color: white;
+        position: absolute;
+        top: 100vh;
+        left: 60vw;
+        text-align: center;
+        }
 .a94 {width: 30vw;
         height: 25vh;
         font-size: 20px;
@@ -794,6 +815,36 @@ body{
         border-color: white;
         position: absolute;
         top: 170vh;
+        left: 60vw;
+        text-align: center;
+        }
+.a94p {width: 30vw;
+        height: 25vh;
+        font-size: 20px;
+        color: white;
+        border-color: white;
+        position: absolute;
+        top: 190vh;
+        left: 60vw;
+        text-align: center;
+        }
+.a95 {width: 30vw;
+        height: 25vh;
+        font-size: 20px;
+        color: white;
+        border-color: white;
+        position: absolute;
+        top: 250vh;
+        left: 60vw;
+        text-align: center;
+        }
+.a95p {width: 30vw;
+        height: 25vh;
+        font-size: 20px;
+        color: white;
+        border-color: white;
+        position: absolute;
+        top: 220vh;
         left: 60vw;
         text-align: center;
         }
@@ -818,6 +869,27 @@ body{
     text-align: center;
     text-shadow: 1px 1px 1px black;
     }
+.ptp {width: 40vw;
+    height: 70vh;
+    background-image: url("pre1.png");
+    display: block;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    position: absolute;
+    top: 100vh;
+    left: 5vw;
+    }  
+.pt1p  {width: 40vw;
+    height: 10vh;
+    font-size: 20px;
+    color: white;
+    border-color: white;
+    position: absolute;
+    top: 60vh;
+    left: 0vw;
+    text-align: center;
+    text-shadow: 1px 1px 1px black;
+    }
 .nq {width: 40vw;
     height: 70vh;
     background-image: url("nq.jpg");
@@ -835,6 +907,27 @@ body{
     border-color: white;
     position: absolute;
     top: 70vh;
+    left: 0vw;
+    text-align: center;
+    text-shadow: 1px 1px 1px black;
+    }
+.nqp {width: 40vw;
+    height: 70vh;
+    background-image: url("pre2.png");
+    display: block;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    position: absolute;
+    top: 190vh;
+    left: 5vw;
+    }  
+.nq1p  {width: 40vw;
+    height: 10vh;
+    font-size: 20px;
+    color: white;
+    border-color: white;
+    position: absolute;
+    top:55vh;
     left: 0vw;
     text-align: center;
     text-shadow: 1px 1px 1px black;
