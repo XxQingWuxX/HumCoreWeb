@@ -818,6 +818,16 @@ body{
         left: 60vw;
         text-align: center;
         }
+.a9410 {width: 30vw;
+        height: 25vh;
+        font-size: 20px;
+        color: white;
+        border-color: white;
+        position: absolute;
+        top: 150vh;
+        left: 60vw;
+        text-align: center;
+        }
 .a94p {width: 30vw;
         height: 25vh;
         font-size: 20px;
@@ -851,6 +861,16 @@ body{
 .pt {width: 40vw;
     height: 70vh;
     background-image: url("pt.jpg");
+    display: block;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    position: absolute;
+    top: 100vh;
+    left: 5vw;
+    }  
+.pt10 {width: 40vw;
+    height: 70vh;
+    background-image: url("act1.jpg");
     display: block;
     background-size: 100%;
     background-repeat: no-repeat;
